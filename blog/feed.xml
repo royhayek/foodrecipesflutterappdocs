@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Food Recipes Flutter App  Blog</title>
+        <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog</link>
+        <description>The best place to stay up-to-date with the latest Food Recipes Flutter App  news and events.</description>
+        <lastBuildDate>Sun, 17 Jan 2021 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Food Recipes Flutter App  Blog</title>
+            <url>https://royhayek.github.io/foodrecipesflutterappdocs/img/favicon.ico</url>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog</link>
+        </image>
+        <copyright>Copyright © 2021 royhayek.com</copyright>
+        <item>
+            <title><![CDATA[Latest Version 1.4]]></title>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/01/17/blog-post-two.html</link>
+            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/01/17/blog-post-two.html</guid>
+            <pubDate>Sun, 17 Jan 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>We moved to the Laravel Framework in order to improve the performance of the backend, which is a web application framework that provides authentication, security, restful controller, and much more. In the previous versions we were facing problems in ...</p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.3]]></title>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/11/25/version-1.3.html</link>
+            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/11/25/version-1.3.html</guid>
+            <pubDate>Wed, 25 Nov 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Application new features:</p> <ul> <li>Added Pagination for recent recipes, category recipes and cuisine recipes</li> <li>Added the ability to enable/disable Admob ads in Constants</li> <li>Added the ability to change the application theme color in Constants</li> <li>Improved App performa...</li></ul>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.2]]></title>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/09/5/version-1.2.html</link>
+            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/09/5/version-1.2.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Application new features:</p> <ul> <li>Added Youtube and website logos.</li> <li>Improved App performance</li> </ul> <p>Admin Panel new features:</p> <ul> <li>Added Youtube and Website input fields.</li> </ul> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.1]]></title>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/07/30/version-1.1.html</link>
+            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/07/30/version-1.1.html</guid>
+            <pubDate>Thu, 30 Jul 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Application new features:</p> <ul> <li>Login and registration (using Email, Google, and Facebook)</li> <li>User can add recipes</li> <li>Both User and Admin recipes are displayed</li> <li>Added new recipe information (Rate, likes, comments, author name, and icon, auth follow button)</li> <li>User ...</li></ul>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.0]]></title>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/06/24/version-1.0.html</link>
+            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/06/24/version-1.0.html</guid>
+            <pubDate>Wed, 24 Jun 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<ul> <li>Initial Release</li> </ul> ]]></description>
+        </item>
+    </channel>
+</rss>
