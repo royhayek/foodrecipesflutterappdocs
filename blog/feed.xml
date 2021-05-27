@@ -4,7 +4,7 @@
         <title>Food Recipes Flutter App  Blog</title>
         <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog</link>
         <description>The best place to stay up-to-date with the latest Food Recipes Flutter App  news and events.</description>
-        <lastBuildDate>Sun, 17 Jan 2021 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,9 +14,23 @@
         </image>
         <copyright>Copyright © 2021 royhayek.com</copyright>
         <item>
-            <title><![CDATA[Latest Version 1.4]]></title>
-            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/01/17/blog-post-two.html</link>
-            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/01/17/blog-post-two.html</guid>
+            <title><![CDATA[Version 1.6 (Latest)]]></title>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/05/27/version-1.6.html</link>
+            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/05/27/version-1.6.html</guid>
+            <pubDate>Thu, 27 May 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Admin Panel features:</p> <ul> <li>You can now insert recipes, categories, cuisines and difficulties in different languages</li> <li>You can now filter recipes, categories, cuisines and difficulties by languages</li> <li>You can choose to auto-approve recipes in settings</li> </ul> <p>Applica...</p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.5]]></title>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/05/06/version-1.5.html</link>
+            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/05/06/version-1.5.html</guid>
+            <pubDate>Thu, 06 May 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<ul> <li>Upgraded to Flutter 2.0.6</li> </ul> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.4]]></title>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/01/17/version-1.4.html</link>
+            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2021/01/17/version-1.4.html</guid>
             <pubDate>Sun, 17 Jan 2021 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>We moved to the Laravel Framework in order to improve the performance of the backend, which is a web application framework that provides authentication, security, restful controller, and much more. In the previous versions we were facing problems in ...</p>]]></description>
         </item>
@@ -29,9 +43,9 @@
         </item>
         <item>
             <title><![CDATA[Version 1.2]]></title>
-            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/09/5/version-1.2.html</link>
-            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/09/5/version-1.2.html</guid>
-            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <link>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/09/05/version-1.2.html</link>
+            <guid>https://royhayek.github.io/foodrecipesflutterappdocs/blog/2020/09/05/version-1.2.html</guid>
+            <pubDate>Sat, 05 Sep 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>Application new features:</p> <ul> <li>Added Youtube and website logos.</li> <li>Improved App performance</li> </ul> <p>Admin Panel new features:</p> <ul> <li>Added Youtube and Website input fields.</li> </ul> ]]></description>
         </item>
         <item>
